@@ -21,3 +21,8 @@ https://polyglotsummarizer-nqtappohptd7vjfvzryc9fa.streamlit.app/
 
 ![App Screenshot](bg1.JPG)
 
+![App Screenshot](bg2.JPG)
+
+![App Screenshot](bg3.JPG)
+
+
