@@ -6,6 +6,8 @@ Since transcripts can be long, the text is tokenized in chunks.
 📌Models used:
 
 facebook/bart-large-cnn  --> summarization
+
+
 facebook/nllb-200-distilled-600M --> translation 
 
 🔧 Technologies Used
