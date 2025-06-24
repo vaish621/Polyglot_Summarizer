@@ -3,11 +3,13 @@ A Streamlit-based web app that takes a YouTube video URL, fetches its transcript
 Since transcripts can be long, the text is tokenized in chunks.
 🌍 It can summarize any YouTube video in any language you name!
 
-📌Models usd:
+📌Models used:
+
 facebook/bart-large-cnn  --> summarization
 facebook/nllb-200-distilled-600M --> translation 
 
 🔧 Technologies Used
+
 - Python
 - Streamlit
 - Hugging Face Transformers (`pipeline`, `AutoTokenizer`)
@@ -15,6 +17,7 @@ facebook/nllb-200-distilled-600M --> translation
 - langdetect (for language detection)
 
 🚀 Demo:
+
 https://polyglotsummarizer-nqtappohptd7vjfvzryc9fa.streamlit.app/
 
 🖼️ App Interface
