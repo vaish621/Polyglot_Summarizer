@@ -19,5 +19,5 @@ https://polyglotsummarizer-nqtappohptd7vjfvzryc9fa.streamlit.app/
 
 🖼️ App Interface
 
-![App Screenshot](bg1.jpg)
+![App Screenshot](bg1.JPG)
 
