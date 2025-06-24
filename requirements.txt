@@ -1,0 +1,5 @@
+streamlit
+transformers
+youtube-transcript-api
+langdetect
+torch  # Needed for Hugging Face models
