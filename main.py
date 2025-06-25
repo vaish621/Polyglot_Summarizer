@@ -68,7 +68,7 @@ def generate_summary(transcript, lang_code, max_length=700):
         transcript = translated[0]['translation_text']
 
     chunks = split_into_chunks(transcript, tokenizer, max_tokens=700)
-    summaries = summarizer(chunks, min_length=300, max_length=300)
+    summaries = summarizer(chunks, min_length=100, max_length=300)
     result = []
 
     return " ".join([s['summary_text'] for s in summaries])
